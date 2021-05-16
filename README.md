@@ -31,6 +31,7 @@ I am Senior Software Engineer working on backend engineering at <a href="https:/
       <img src="https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=azure&logoColor=white" />
               &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/AWS-FA7404?style=for-the-badge&logo=aws&logoColor=white" />
+              <hr>
 <p align='center'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=raghu777.raghu777??style=for-the-badge&logo=appveyor"></a>
+  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=raghu777.raghu7771??style=for-the-badge&logo=appveyor"></a>
 </p>
